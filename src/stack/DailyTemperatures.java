@@ -1,7 +1,8 @@
+package stack;
 
 import java.util.Stack;
 
-class Solution {
+class DailyTemperatures {
 
     /**
      * Returns an array where each element represents the number of days until a
